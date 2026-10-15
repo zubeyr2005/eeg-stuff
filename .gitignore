@@ -1,0 +1,14 @@
+private_data/
+*.png
+!distraction-timeline.png
+*.jsonl
+*.npz
+*.joblib
+*.svg
+*.pdf
+*.json
+*.npy
+*.pt
+*.pth
+__pycache__/
+.venv/
